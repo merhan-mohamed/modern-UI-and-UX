@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/modern-UI-and-UX/static/css/main.d558ddb1.css",
+    "main.js": "/modern-UI-and-UX/static/js/main.3dae7383.js",
+    "static/js/787.a407b125.chunk.js": "/modern-UI-and-UX/static/js/787.a407b125.chunk.js",
+    "static/media/Header Illustration.png": "/modern-UI-and-UX/static/media/Header Illustration.f58c74362cbb084b648f.png",
+    "static/media/Feature Image.png": "/modern-UI-and-UX/static/media/Feature Image.e685de02939616d109da.png",
+    "static/media/blog01.png": "/modern-UI-and-UX/static/media/blog01.b8c594107c0678715afa.png",
+    "static/media/blog03.png": "/modern-UI-and-UX/static/media/blog03.09c400fc78c96e4ff788.png",
+    "static/media/blog04.png": "/modern-UI-and-UX/static/media/blog04.2f7565c893499d0f39f0.png",
+    "static/media/blog05.png": "/modern-UI-and-UX/static/media/blog05.e2cd2c3bcda87df5181f.png",
+    "static/media/blog2.png": "/modern-UI-and-UX/static/media/blog2.4575fb47b66fd76940b0.png",
+    "static/media/Group 81.png": "/modern-UI-and-UX/static/media/Group 81.2cfdf724680e3ce7e868.png",
+    "static/media/dropbox.png": "/modern-UI-and-UX/static/media/dropbox.74056b966ce8bd5829b6.png",
+    "static/media/atlassian.png": "/modern-UI-and-UX/static/media/atlassian.b300970d4dad69eef066.png",
+    "index.html": "/modern-UI-and-UX/index.html",
+    "main.d558ddb1.css.map": "/modern-UI-and-UX/static/css/main.d558ddb1.css.map",
+    "main.3dae7383.js.map": "/modern-UI-and-UX/static/js/main.3dae7383.js.map",
+    "787.a407b125.chunk.js.map": "/modern-UI-and-UX/static/js/787.a407b125.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d558ddb1.css",
+    "static/js/main.3dae7383.js"
+  ]
+}
